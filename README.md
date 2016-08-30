@@ -1,6 +1,6 @@
 # docker_cowsay
 <h3>Test Docker Hub : Automated Builds</h3>
-<br/>
+
 To setup an Automated Build<br/>
 1. Create a Docker Hub account and login.<br/>
 2. Link your GitHub or Bitbucket account on the “Linked Accounts & Services” page.<br/>
