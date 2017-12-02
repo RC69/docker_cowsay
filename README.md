@@ -11,3 +11,7 @@
 6. Give the Automated Build a name.
 7. Assign an optional Docker tag to the Build.
 8. Specify where the Dockerfile is located. The default is /.
+
+------------------------
+
+####  docker run dockrc/docker-cowsay
